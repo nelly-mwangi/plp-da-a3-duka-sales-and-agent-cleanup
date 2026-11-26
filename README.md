@@ -30,23 +30,25 @@ The objective was to clean, validate and analyse mobile money transactions using
 |---|---:|---:|
 | Transaction records | 612 | 600 |
 | Duplicate transaction IDs | 12 | 0 |
-| Missing transaction amounts | 22 | 0 |
+| Missing or invalid transaction amounts (15 blank + 7 text N/A) | 22 | 0 |
 | Imputed amounts | 0 | 20 |
-| Flagged outliers | 0 | 53 |
+| Flagged outliers (IQR, incl. five KES 250,000 values) | 0 | 40 |
 | Unknown agent transactions | 7 | 7 |
 
 The cleaning process included:
 
 - Removing duplicate transaction IDs.
-- Imputing missing amounts using the median.
+- Imputing the 20 missing or invalid amounts with the median of observed amounts and flagging them in `amount_imputed`.
 - Standardising transaction types and dates.
-- Identifying potential outliers using the IQR method.
+- Flagging outliers with the IQR method on observed amounts (before imputation). The five KES 250,000 transactions are about 46% of total value, so they are retained, flagged and recommended for verification at source.
 - Merging transactions with the agent register.
 - Assigning unknown agents to the `Unknown` county.
 
 The cleaned dataset was used for county-level and weekly transaction analysis.
 
 **Notebook:** `agent_cleanup.ipynb`
+
+**Repository contents:** `generate_data.py` (both generators), `cleaning_pipeline.py` (`clean_agent_data(txns, agents)` returning `(clean_df, log)`), the two notebooks, `excel/duka_branch_summary.xlsx` (SUMIFS, XLOOKUP and PivotTable), and `outputs/` (`premium_online_coast_capital.csv`, `agent_transactions_clean.csv`). The raw CSVs are not committed; regenerate them with `python generate_data.py`.
 
 ## How to Run the Project
 

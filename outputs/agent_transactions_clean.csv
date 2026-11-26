@@ -44,7 +44,7 @@ TX00042,AG006,Deposit,1431.0,2026-04-05,False,False,Nakuru
 TX00043,AG007,Withdrawal,1899.0,2026-03-26,False,False,Nairobi
 TX00044,AG003,Withdrawal,1462.0,2026-04-20,False,False,Kisumu
 TX00045,AG008,Withdrawal,605.0,2026-04-15,False,False,Kisumu
-TX00046,AG016,Deposit,5632.0,2026-03-02,False,True,Kiambu
+TX00046,AG016,Deposit,5632.0,2026-03-02,False,False,Kiambu
 TX00047,AG012,Deposit,2514.0,2026-04-25,False,False,Kisumu
 TX00048,AG010,Deposit,1303.0,2026-03-09,False,False,Nairobi
 TX00049,AG017,Deposit,5509.0,2026-03-11,False,False,Nakuru
@@ -55,7 +55,7 @@ TX00053,AG009,Deposit,1232.0,2026-04-23,False,False,Nakuru
 TX00054,AG020,Withdrawal,4557.0,2026-04-02,False,False,Mombasa
 TX00055,AG012,Withdrawal,1776.5,2026-03-19,True,False,Kisumu
 TX00056,AG099,Deposit,8507.0,2026-04-01,False,True,Unknown
-TX00057,AG017,Deposit,6006.0,2026-03-05,False,True,Nakuru
+TX00057,AG017,Deposit,6006.0,2026-03-05,False,False,Nakuru
 TX00058,AG011,Withdrawal,8035.0,2026-04-16,False,True,Kisumu
 TX00059,AG012,Withdrawal,1154.0,2026-03-31,False,False,Kisumu
 TX00060,AG003,Withdrawal,659.0,2026-04-20,False,False,Kisumu
@@ -68,7 +68,7 @@ TX00066,AG016,Withdrawal,7116.0,2026-04-22,False,True,Kiambu
 TX00067,AG002,Deposit,1776.5,2026-04-07,True,False,Nairobi
 TX00068,AG019,Withdrawal,7962.0,2026-03-03,False,True,Mombasa
 TX00069,AG099,Withdrawal,1877.0,2026-04-24,False,False,Unknown
-TX00070,AG005,Deposit,5856.0,2026-04-11,False,True,Mombasa
+TX00070,AG005,Deposit,5856.0,2026-04-11,False,False,Mombasa
 TX00071,AG019,Withdrawal,4339.0,2026-04-06,False,False,Mombasa
 TX00072,AG020,Deposit,1007.0,2026-04-16,False,False,Mombasa
 TX00073,AG004,Withdrawal,4074.0,2026-04-03,False,False,Kiambu
@@ -97,14 +97,14 @@ TX00095,AG011,Deposit,389.0,2026-03-23,False,False,Kisumu
 TX00096,AG006,Deposit,3602.0,2026-04-25,False,False,Nakuru
 TX00097,AG014,Withdrawal,507.0,2026-04-10,False,False,Nairobi
 TX00098,AG005,Withdrawal,1375.0,2026-04-17,False,False,Mombasa
-TX00099,AG007,Withdrawal,5643.0,2026-03-30,False,True,Nairobi
-TX00100,AG007,Deposit,5777.0,2026-04-20,False,True,Nairobi
+TX00099,AG007,Withdrawal,5643.0,2026-03-30,False,False,Nairobi
+TX00100,AG007,Deposit,5777.0,2026-04-20,False,False,Nairobi
 TX00101,AG005,Deposit,2501.0,2026-04-24,False,False,Mombasa
 TX00102,AG009,Deposit,545.0,2026-03-11,False,False,Nakuru
 TX00103,AG020,Withdrawal,1786.0,2026-04-16,False,False,Mombasa
 TX00104,AG015,Deposit,2095.0,2026-03-28,False,False,Nairobi
 TX00105,AG014,Withdrawal,1041.0,2026-04-23,False,False,Nairobi
-TX00106,AG009,Withdrawal,5749.0,2026-04-10,False,True,Nakuru
+TX00106,AG009,Withdrawal,5749.0,2026-04-10,False,False,Nakuru
 TX00107,AG013,Withdrawal,2383.0,2026-03-23,False,False,Nairobi
 TX00108,AG014,Withdrawal,2537.0,2026-04-24,False,False,Nairobi
 TX00109,AG004,Deposit,1812.0,2026-04-23,False,False,Kiambu
@@ -122,7 +122,7 @@ TX00120,AG013,Deposit,2502.0,2026-03-19,False,False,Nairobi
 TX00121,AG017,Deposit,2222.0,2026-04-27,False,False,Nakuru
 TX00122,AG003,Deposit,6310.0,2026-03-06,False,True,Kisumu
 TX00123,AG008,Deposit,1776.5,2026-04-15,True,False,Kisumu
-TX00124,AG007,Deposit,5745.0,2026-04-20,False,True,Nairobi
+TX00124,AG007,Deposit,5745.0,2026-04-20,False,False,Nairobi
 TX00125,AG009,Withdrawal,1301.0,2026-03-14,False,False,Nakuru
 TX00126,AG006,Withdrawal,2915.0,2026-04-06,False,False,Nakuru
 TX00127,AG008,Deposit,1590.0,2026-03-19,False,False,Kisumu
@@ -157,7 +157,7 @@ TX00155,AG004,Deposit,1839.0,2026-03-04,False,False,Kiambu
 TX00156,AG017,Deposit,6241.0,2026-04-06,False,True,Nakuru
 TX00157,AG016,Deposit,2047.0,2026-03-09,False,False,Kiambu
 TX00158,AG009,Deposit,1256.0,2026-03-02,False,False,Nakuru
-TX00159,AG007,Deposit,5560.0,2026-04-18,False,True,Nairobi
+TX00159,AG007,Deposit,5560.0,2026-04-18,False,False,Nairobi
 TX00160,AG010,Deposit,1077.0,2026-03-30,False,False,Nairobi
 TX00161,AG016,Deposit,1919.0,2026-03-23,False,False,Kiambu
 TX00162,AG015,Deposit,688.0,2026-04-02,False,False,Nairobi
@@ -175,7 +175,7 @@ TX00173,AG007,Deposit,1604.0,2026-04-16,False,False,Nairobi
 TX00174,AG018,Deposit,1776.5,2026-03-21,True,False,Mombasa
 TX00175,AG014,Withdrawal,13362.0,2026-04-06,False,True,Nairobi
 TX00176,AG006,Withdrawal,2299.0,2026-03-06,False,False,Nakuru
-TX00177,AG011,Withdrawal,5615.0,2026-04-18,False,True,Kisumu
+TX00177,AG011,Withdrawal,5615.0,2026-04-18,False,False,Kisumu
 TX00178,AG016,Deposit,4322.0,2026-03-21,False,False,Kiambu
 TX00179,AG003,Deposit,541.0,2026-03-30,False,False,Kisumu
 TX00180,AG013,Deposit,2545.0,2026-03-09,False,False,Nairobi
@@ -190,7 +190,7 @@ TX00188,AG017,Deposit,941.0,2026-04-10,False,False,Nakuru
 TX00189,AG014,Deposit,2029.0,2026-04-25,False,False,Nairobi
 TX00190,AG004,Deposit,2230.0,2026-04-12,False,False,Kiambu
 TX00191,AG015,Withdrawal,1483.0,2026-03-06,False,False,Nairobi
-TX00192,AG015,Deposit,5788.0,2026-04-25,False,True,Nairobi
+TX00192,AG015,Deposit,5788.0,2026-04-25,False,False,Nairobi
 TX00193,AG008,Deposit,1776.5,2026-04-18,True,False,Kisumu
 TX00194,AG007,Withdrawal,4286.0,2026-04-16,False,False,Nairobi
 TX00195,AG019,Deposit,1007.0,2026-04-29,False,False,Mombasa
@@ -231,7 +231,7 @@ TX00229,AG012,Withdrawal,1589.0,2026-03-15,False,False,Kisumu
 TX00230,AG005,Deposit,1747.0,2026-04-01,False,False,Mombasa
 TX00231,AG014,Withdrawal,1213.0,2026-03-07,False,False,Nairobi
 TX00232,AG020,Deposit,1499.0,2026-03-19,False,False,Mombasa
-TX00233,AG001,Deposit,5567.0,2026-04-27,False,True,Mombasa
+TX00233,AG001,Deposit,5567.0,2026-04-27,False,False,Mombasa
 TX00234,AG019,Deposit,1543.0,2026-03-18,False,False,Mombasa
 TX00235,AG006,Deposit,1719.0,2026-03-28,False,False,Nakuru
 TX00236,AG017,Withdrawal,180.0,2026-03-03,False,False,Nakuru
@@ -298,7 +298,7 @@ TX00296,AG015,Withdrawal,1776.5,2026-04-15,True,False,Nairobi
 TX00297,AG011,Deposit,689.0,2026-04-03,False,False,Kisumu
 TX00298,AG001,Deposit,445.0,2026-04-13,False,False,Mombasa
 TX00299,AG017,Withdrawal,358.0,2026-04-22,False,False,Nakuru
-TX00300,AG017,Deposit,5646.0,2026-03-06,False,True,Nakuru
+TX00300,AG017,Deposit,5646.0,2026-03-06,False,False,Nakuru
 TX00301,AG006,Withdrawal,1896.0,2026-03-03,False,False,Nakuru
 TX00302,AG014,Deposit,2851.0,2026-04-20,False,False,Nairobi
 TX00303,AG001,Deposit,670.0,2026-03-03,False,False,Mombasa
@@ -397,7 +397,7 @@ TX00395,AG007,Deposit,3078.0,2026-04-17,False,False,Nairobi
 TX00396,AG006,Deposit,778.0,2026-04-07,False,False,Nakuru
 TX00397,AG017,Withdrawal,1575.0,2026-04-23,False,False,Nakuru
 TX00398,AG003,Deposit,1485.0,2026-04-21,False,False,Kisumu
-TX00399,AG005,Withdrawal,5897.0,2026-04-06,False,True,Mombasa
+TX00399,AG005,Withdrawal,5897.0,2026-04-06,False,False,Mombasa
 TX00400,AG015,Deposit,9523.0,2026-03-04,False,True,Nairobi
 TX00401,AG013,Withdrawal,8318.0,2026-03-15,False,True,Nairobi
 TX00402,AG001,Deposit,301.0,2026-03-07,False,False,Mombasa

@@ -6,3 +6,5 @@ __pycache__/
 duka_sales.csv
 agents.csv
 agent_transactions.csv
+~$*
+.DS_Store
